@@ -1,0 +1,15 @@
+{
+  "name": "מריה קוסמטיקס",
+  "short_name": "מריה קוסמטיקס",
+  "description": "קליניקת בוטיק לטיפולי יופי בעין הים, חדרה — טיפולי פנים, לייזר, מניקור פדיקור ואיפור.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6f1",
+  "theme_color": "#f4d4c1",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/img/apple-touch-icon.svg", "sizes": "180x180", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
